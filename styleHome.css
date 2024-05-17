@@ -1,0 +1,56 @@
+
+
+.background {
+	
+	--s: 50px; /* control the size*/
+	
+	--_g: radial-gradient(#0000 70%,#252629 71%);
+	background:
+	  var(--_g),var(--_g) calc(var(--s)/2) calc(var(--s)/2),
+	  conic-gradient(#d48321 25%,#fdebad 0 50%,#fffdc5 0 75%,#ffd889 0);
+	background-size: var(--s) var(--s); 
+
+  }
+
+
+  .me-2 {
+    margin-right: .5rem !important;
+}
+
+.shfafya{
+
+  text-align: left;
+  
+	border-radius: 30px;
+	background-color: rgba(0, 0, 0, 0.6) !important;
+	
+}
+
+
+
+.background-color{
+	color: #1a2030;
+}
+
+footer{
+    color:#caced1 !important;
+ }
+
+ li{
+     margin-top: 20px ;
+     margin-bottom: 20px ;
+ }
+ 
+.Careers{ 
+    cursor: pointer;
+    color: #1E88E5;
+}
+
+.row-1{
+    background-color:#1E242A !important;
+}
+
+.row-2{
+    
+    background-color: #28323C !important;
+}
